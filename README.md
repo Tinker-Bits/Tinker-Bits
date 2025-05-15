@@ -1,33 +1,35 @@
 # 👋 Hey, I'm Jash Upadhyay
 
-🎯 **Flutter Across Platforms** | ⚡ **FastAPI Backend** | 🐍 **Python Applications**
+🎯 **Flutter Across Platforms**&nbsp;&nbsp;&nbsp;&nbsp;⚡ **FastAPI Backend**&nbsp;&nbsp;&nbsp;&nbsp;🐍 **Python Applications**
 
-Flutter for **mobile**, **web**, and **desktop**.  
-Python & FastAPI for backend development.
+Flutter for **mobile**, **web**, and **desktop**  
+Python & FastAPI for backend development
 
 ---
 
 ## 🚀 Tech Stack
 
-- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>  
-  Cross-platform UI with a single codebase
-
-- <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>  
-  Lightweight, modern backend framework
-
-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>  
-  General-purpose language for backend & tools
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) &nbsp;Cross-platform UI development  
+- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) &nbsp;Modern Python web framework  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) &nbsp;Backend systems and scripting
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUsername&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tinker-Bits&theme=tokyonight" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tinker-Bits&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tinker-Bits&theme=tokyonight" />
 </p>
 
 ---
 
-📫 Reach me at: **jashupadhyay.java@gmail.com**
+## 📫 Reach Me
+
+- 📧 **jashupadhyay.java@gmail.com**
+
+---
 
 _✨ Let’s build something awesome ✨_
