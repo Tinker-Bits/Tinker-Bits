@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Jash Upadhyay
 
-🎯 **Flutter Across Platforms**&nbsp;&nbsp;&nbsp;&nbsp;⚡ **FastAPI Backend**&nbsp;&nbsp;&nbsp;&nbsp;🐍 **Python Applications**
-
+🎯 **Flutter Across Platforms**&nbsp;&nbsp;&nbsp;&nbsp;⚡ **FastAPI Backend**&nbsp;&nbsp;&nbsp;&nbsp;🐍 **Python Backend & Applications**
 
 ---
 
@@ -26,7 +25,8 @@
 
 ## 📫 Reach Me
 
-- 📧 **jashupadhyay.java@gmail.com**
+- 📧 **jashupadhyay.java@gmail.com**  
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/jashupadhyay/)
 
 ---
 
