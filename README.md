@@ -2,8 +2,6 @@
 
 🎯 **Flutter Across Platforms**&nbsp;&nbsp;&nbsp;&nbsp;⚡ **FastAPI Backend**&nbsp;&nbsp;&nbsp;&nbsp;🐍 **Python Applications**
 
-Flutter for **mobile**, **web**, and **desktop**  
-Python & FastAPI for backend development
 
 ---
 
