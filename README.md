@@ -2,10 +2,6 @@
 
 🎯 **Flutter Across Platforms** | ⚡ **FastAPI Backend** | 🐍 **Python Applications**
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-
 Flutter for **mobile**, **web**, and **desktop**.  
 Python & FastAPI for backend development.
 
@@ -13,14 +9,21 @@ Python & FastAPI for backend development.
 
 ## 🚀 Tech Stack
 
-- 💙 Flutter → One codebase, every platform  
-- ⚡ FastAPI → Lightweight and modern web framework  
-- 🐍 Python → Backend systems & tools
+- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>  
+  Cross-platform UI with a single codebase
+
+- <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>  
+  Lightweight, modern backend framework
+
+- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>  
+  General-purpose language for backend & tools
 
 ---
 
+## 📊 GitHub Overview
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUsername&theme=tokyonight" alt="Profile Details"/>
 </p>
 
 ---
